@@ -1,55 +1,53 @@
-# GreenSupply-Electronics-Analytics
-Descriptive analytics and visualisation project
-Project Overview
+# GreenSupply Electronics – Business Analytics Project
 
-This project analyses the operational and financial performance of GreenSupply Electronics, a European consumer electronics distributor.
+## 1. Project Overview
 
-Objectives
+This project focuses on analysing the operational and financial performance of GreenSupply Electronics, a European consumer electronics distributor.
 
-Analyse sales and profitability.
+The analysis aims to identify patterns in sales, profitability, warehouse operations, inventory management, delivery performance, product returns and environmental impact.
 
-Evaluate warehouse and inventory performance.
+## 2. Business Objectives
 
-Investigate delivery delays and reliability.
+- Evaluate revenue and profitability across product categories and regions.
+- Assess warehouse performance and inventory management.
+- Investigate delivery delays and carrier reliability.
+- Identify patterns in product returns and return reasons.
+- Examine estimated transportation emissions.
 
-Examine product returns and return reasons.
+## 3. Dataset Description
 
-Explore estimated transportation emissions.
+The project uses two datasets:
 
-Tools Used
+- **Orders:** Contains order-level information, including customer, product, sales, delivery and returns data.
+- **Warehouse Monthly Inventory:** Contains monthly warehouse inventory information.
 
-Microsoft Power BI – Data cleaning and preparation.
+## 4. Tools and Technologies
 
-Tableau – Data exploration and visualisation.
+- Microsoft Power BI – Data cleaning and preparation.
+- Tableau – Data exploration and visualisation.
+- Microsoft Excel – Dataset management.
+- GitHub – Project documentation and version control.
 
-Microsoft Excel – Dataset management.
-
-GitHub – Project documentation and version control.
-
-Project Structure
-
-Data – Original and cleaned datasets (where sharing is permitted).
-
-Power-BI – Power BI project files.
-
-Tableau – Tableau workbooks.
-
-Report – Final assignment report.
-
-Dashboard-Screenshots – Visual outputs.
-
-Methodology
+## 5. Methodology
 
 The project follows the CRISP-DM framework:
 
-Business Understanding
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
+4. Modelling and Analysis
+5. Evaluation
+6. Deployment
 
-Data Understanding
+## 6. Project Structure
 
-Data Preparation
+- `Data/` – Original and cleaned datasets.
+- `Power-BI/` – Power BI project files.
+- `Tableau/` – Tableau workbooks.
+- `Report/` – Assignment report.
+- `Dashboard-Screenshots/` – Dashboard visualisations.
 
-Modelling / Analysis
+## 7. Expected Outcomes
 
-Evaluation
+The analysis aims to provide data-driven insights and managerial recommendations to improve profitability, delivery reliability, inventory efficiency and operational performance.
 
-Deployment
